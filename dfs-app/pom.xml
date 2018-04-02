@@ -7,6 +7,13 @@
     <groupId>be.dhia.dfs</groupId>
     <artifactId>dfs</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <dependencies>
+        <dependency>
+            <groupId>org.hibernate</groupId>
+            <artifactId>hibernate-core</artifactId>
+            <version>3.6.6.Final</version>
+        </dependency>
+    </dependencies>
 
 
 </project>
